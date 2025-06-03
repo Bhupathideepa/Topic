@@ -1,6 +1,6 @@
 # **Experiences:**
 
-Resu IT Solutions	— Technical Writer
+**Resu IT Solutions	— Technical Writer**
 
 July 2022 – PRESENT 
 
