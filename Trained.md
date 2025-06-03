@@ -1,4 +1,4 @@
-**TECHNICAL PUBLICATIONS Training:**
+# **TECHNICAL PUBLICATIONS Training:**
 
 •	Trained in Project Management Methodologies. 
 
