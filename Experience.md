@@ -18,7 +18,7 @@ Working with Netbrain Technologies located in Hyderabad as a technical writer on
 
 •	Review documents against the various checklists as part of the documentation process.
 
-**Education:**
+# **Education:**
 
 •	M.Tech in CSE (Computer Science and Engineering) in the year 2016 with 80 percent from SR Engineering College, Warangal. 
 
