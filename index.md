@@ -1,4 +1,3 @@
-# **Deepa Bhupathi** 
 
 # [Introduction](Intoduction.md)
 # [Resume](Resume.md)
