@@ -1,4 +1,4 @@
-# [Resume]
+# [Resume](Resume.md)
 # [Experience](Experience.md)
-# [Skills and Software]
-# [Trained]
+# [Skills and Software](Skills-and-Softwares.md)
+# [Trained](Trained.md)
